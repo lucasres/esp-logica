@@ -1,0 +1,23 @@
+{
+  "name": "atividade2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasres/esp-logica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasres/esp-logica/issues"
+  },
+  "homepage": "https://github.com/lucasres/esp-logica#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
